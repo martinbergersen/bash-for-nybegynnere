@@ -2,12 +2,12 @@
 
 Last ned med:
 
-´´´
-wget https://github.com/martinbergersen/bash-for-nybegynnere/eksempelfiler.tar.gz
-´´´
+```
+wget https://github.com/martinbergersen/bash-for-nybegynnere/raw/main/eksempelfiler.tar.gz
+```
 
 Pakk ut med:
 
-´´´
+```
 tar -xzf eksempelfiler.tar.gz
-´´´
+```
